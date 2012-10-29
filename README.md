@@ -1,6 +1,6 @@
 # KSOAP2-ANDROID
 
-This is the master code repository for the ksoap2-android project. For further information see:
+Fix realizado para mantener activa conexiones por 3G en android 3.0 o superior. Sin usar este FIX se cierra el socket denegando la conexion
 
 ## Project website
 
